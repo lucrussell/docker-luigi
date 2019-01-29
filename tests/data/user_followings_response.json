@@ -1,0 +1,141 @@
+])}while(1);</x>{
+  "success": true,
+  "payload": {
+    "value": [
+      {
+        "userId": "48dfcde4c4fd",
+        "name": "Mayank Kharbanda",
+        "username": "mayankkharbanda",
+        "createdAt": 1544705224623,
+        "imageId": "0*Nz99ejJyhSVZ6gY0",
+        "backgroundImageId": "",
+        "bio": "Grad Student, Department of Computer Science, University of Delhi",
+        "twitterScreenName": "",
+        "social": {
+          "userId": "lo_b0mYHgWnBDyB",
+          "targetUserId": "48dfcde4c4fd",
+          "type": "Social"
+        },
+        "facebookAccountId": "2000223846738306",
+        "allowNotes": 1,
+        "mediumMemberAt": 0,
+        "isNsfw": false,
+        "type": "User"
+      },
+      {
+        "userId": "7053de462a28",
+        "name": "Parul Pandey",
+        "username": "parulnith",
+        "createdAt": 1503199724429,
+        "imageId": "1*-ooorT2_5GQSfQoVFxJHXw.jpeg",
+        "backgroundImageId": "",
+        "bio": "Data Science Enthusiast | Writer | Electrical Engineer Really passionate about using Machine Learning for solving real-life problems.",
+        "twitterScreenName": "pandeyparul",
+        "social": {
+          "userId": "lo_b0mYHgWnBDyB",
+          "targetUserId": "7053de462a28",
+          "type": "Social"
+        },
+        "facebookAccountId": "",
+        "allowNotes": 1,
+        "mediumMemberAt": 1535549659000,
+        "isNsfw": false,
+        "type": "User"
+      },
+      {
+        "userId": "a32c340ea342",
+        "name": "Medium Staff",
+        "username": "MediumStaff",
+        "createdAt": 1410279417989,
+        "imageId": "1*ZnU6Qr8XWBX-pKkW7lJNHQ.png",
+        "backgroundImageId": "1*n1jRV2W4nxP65m5KgcdHbg.jpeg",
+        "bio": "Recommended reading from the staff at Medium.",
+        "twitterScreenName": "",
+        "social": {
+          "userId": "lo_b0mYHgWnBDyB",
+          "targetUserId": "a32c340ea342",
+          "type": "Social"
+        },
+        "facebookAccountId": "",
+        "allowNotes": 1,
+        "mediumMemberAt": 0,
+        "isNsfw": false,
+        "type": "User"
+      }
+    ],
+    "references": {
+      "User": {
+        "48dfcde4c4fd": {
+          "userId": "48dfcde4c4fd",
+          "name": "Mayank Kharbanda",
+          "username": "mayankkharbanda",
+          "createdAt": 1544705224623,
+          "imageId": "0*Nz99ejJyhSVZ6gY0",
+          "backgroundImageId": "",
+          "bio": "Grad Student, Department of Computer Science, University of Delhi",
+          "twitterScreenName": "",
+          "facebookAccountId": "2000223846738306",
+          "allowNotes": 1,
+          "mediumMemberAt": 0,
+          "isNsfw": false,
+          "type": "User"
+        },
+        "7053de462a28": {
+          "userId": "7053de462a28",
+          "name": "Parul Pandey",
+          "username": "parulnith",
+          "createdAt": 1503199724429,
+          "imageId": "1*-ooorT2_5GQSfQoVFxJHXw.jpeg",
+          "backgroundImageId": "",
+          "bio": "Data Science Enthusiast | Writer | Electrical Engineer Really passionate about using Machine Learning for solving real-life problems.",
+          "twitterScreenName": "pandeyparul",
+          "facebookAccountId": "",
+          "allowNotes": 1,
+          "mediumMemberAt": 1535549659000,
+          "isNsfw": false,
+          "type": "User"
+        },
+        "a32c340ea342": {
+          "userId": "a32c340ea342",
+          "name": "Medium Staff",
+          "username": "MediumStaff",
+          "createdAt": 1410279417989,
+          "imageId": "1*ZnU6Qr8XWBX-pKkW7lJNHQ.png",
+          "backgroundImageId": "1*n1jRV2W4nxP65m5KgcdHbg.jpeg",
+          "bio": "Recommended reading from the staff at Medium.",
+          "twitterScreenName": "",
+          "facebookAccountId": "",
+          "allowNotes": 1,
+          "mediumMemberAt": 0,
+          "isNsfw": false,
+          "type": "User"
+        }
+      },
+      "Social": {
+        "48dfcde4c4fd": {
+          "userId": "lo_b0mYHgWnBDyB",
+          "targetUserId": "48dfcde4c4fd",
+          "type": "Social"
+        },
+        "7053de462a28": {
+          "userId": "lo_b0mYHgWnBDyB",
+          "targetUserId": "7053de462a28",
+          "type": "Social"
+        },
+        "a32c340ea342": {
+          "userId": "lo_b0mYHgWnBDyB",
+          "targetUserId": "a32c340ea342",
+          "type": "Social"
+        }
+      }
+    },
+    "paging": {
+      "path": "/_/api/users/b5e0373348ba/following",
+      "next": {
+        "limit": 8
+      }
+    }
+  },
+  "v": 3,
+  "b": "36146-3ba6baf"
+}

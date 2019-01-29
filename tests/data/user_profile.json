@@ -1,0 +1,2542 @@
+{
+    "root": [
+        {
+            "posts": {
+                "24c6491a8ff0": {
+                    "acceptedAt": 0,
+                    "allowResponses": true,
+                    "approvedHomeCollectionId": "7f60cf5620c9",
+                    "audioVersionDurationSec": 0,
+                    "canonicalUrl": "",
+                    "content": {
+                        "postDisplay": {
+                            "coverless": true
+                        },
+                        "subtitle": "Data science with my Medium article statistics and simple Python tools you can use for yourself!"
+                    },
+                    "coverless": true,
+                    "createdAt": 1546210562018,
+                    "creatorId": "e2f299e30cb9",
+                    "curationEligibleAt": 0,
+                    "deletedAt": 0,
+                    "detectedLanguage": "en",
+                    "displayAuthor": "",
+                    "editorialPreviewDek": "",
+                    "editorialPreviewTitle": "",
+                    "experimentalCss": "",
+                    "featureLockRequestAcceptedAt": 0,
+                    "firstPublishedAt": 1546300377981,
+                    "hasUnpublishedEdits": false,
+                    "hightowerMinimumGuaranteeEndsAt": 0,
+                    "hightowerMinimumGuaranteeStartsAt": 0,
+                    "homeCollectionId": "7f60cf5620c9",
+                    "id": "24c6491a8ff0",
+                    "importedPublishedAt": 0,
+                    "importedUrl": "",
+                    "inResponseToMediaResourceId": "",
+                    "inResponseToPostId": "",
+                    "inResponseToRemovedAt": 0,
+                    "isApprovedTranslation": false,
+                    "isBlockedFromHightower": false,
+                    "isEligibleForRevenue": false,
+                    "isNsfw": false,
+                    "isSeries": false,
+                    "isSubscriptionLocked": false,
+                    "isTitleSynthesized": false,
+                    "latestPublishedAt": 1546351026631,
+                    "latestPublishedVersion": "e7790a315685",
+                    "latestRev": 2074,
+                    "latestVersion": "e7790a315685",
+                    "layerCake": 4,
+                    "license": 0,
+                    "lockedPostSource": 0,
+                    "mediumUrl": "",
+                    "migrationId": "",
+                    "mongerRequestType": 1,
+                    "newsletterId": "",
+                    "notifyFacebook": false,
+                    "notifyFollowers": true,
+                    "notifyTwitter": false,
+                    "previewContent": {
+                        "bodyModel": {
+                            "paragraphs": [
+                                {
+                                    "layout": 10,
+                                    "metadata": {
+                                        "id": "1*czF_DrUuxc_DaqonHtiYiQ.jpeg",
+                                        "isFeatured": true,
+                                        "originalHeight": 2700,
+                                        "originalWidth": 3600
+                                    },
+                                    "name": "previewImage",
+                                    "text": "",
+                                    "type": 4
+                                },
+                                {
+                                    "alignment": 1,
+                                    "name": "previewTitle",
+                                    "text": "Analyzing Medium Story Stats with Python",
+                                    "type": 3
+                                },
+                                {
+                                    "alignment": 1,
+                                    "name": "previewSubtitle",
+                                    "text": "Data science with my Medium article statistics and simple\u2026",
+                                    "type": 13
+                                }
+                            ],
+                            "sections": [
+                                {
+                                    "startIndex": 0
+                                }
+                            ]
+                        },
+                        "isFullContent": false,
+                        "subtitle": "Data science with my Medium article statistics and simple Python tools you can use for yourself!"
+                    },
+                    "responseHiddenOnParentPostAt": 0,
+                    "sequenceId": "",
+                    "seriesLastAppendedAt": 0,
+                    "slug": "analyzing-medium-story-stats-with-python",
+                    "socialDek": "",
+                    "socialTitle": "",
+                    "title": "Analyzing Medium Story Stats with Python",
+                    "translationSourceCreatorId": "",
+                    "translationSourcePostId": "",
+                    "type": "Post",
+                    "uniqueSlug": "analyzing-medium-story-stats-with-python-24c6491a8ff0",
+                    "updatedAt": 1546351026735,
+                    "versionId": "e7790a315685",
+                    "virtuals": {
+                        "allowNotes": true,
+                        "imageCount": 24,
+                        "isBookmarked": false,
+                        "isLockedPreviewOnly": false,
+                        "links": {
+                            "entries": [
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://en.wikipedia.org/wiki/HTML"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://docs.python.org/2/library/multiprocessing.html"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://plot.ly/create/"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://stats.stackexchange.com/questions/17565/choosing-the-best-model-from-among-different-best-models"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://stats.stackexchange.com/questions/57407/what-is-the-meaning-of-all-models-are-wrong-but-some-are-useful"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://plot.ly/python/"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://plot.ly/ipython-notebooks/cufflinks/"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://machinelearningmastery.com/overfitting-and-underfitting-with-machine-learning-algorithms/"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://github.com/WillKoehrsen/Data-Analysis/blob/master/medium/Medium%20Stats%20Analysis.ipynb"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "http://docs.python-requests.org/en/master/"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://github.com/WillKoehrsen/Data-Analysis/tree/master/medium"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://www.w3.org/TR/WD-DOM/introduction.html"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://ncss-wpengine.netdna-ssl.com/wp-content/themes/ncss/pdf/Procedures/NCSS/Scatter_Plot_Matrix.pdf"
+                                },
+                                {
+                                    "alts": [
+                                        {
+                                            "type": 2,
+                                            "url": "medium://m/signin"
+                                        },
+                                        {
+                                            "type": 3,
+                                            "url": "medium://m/signin"
+                                        }
+                                    ],
+                                    "httpStatus": 200,
+                                    "url": "https://medium.com/me/stats"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://github.com/WillKoehrsen/Data-Analysis/blob/master/medium/retrieval.py"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://github.com/WillKoehrsen/Data-Analysis/tree/master/medium/data"
+                                },
+                                {
+                                    "alts": [
+                                        {
+                                            "type": 2,
+                                            "url": "medium://towards-data-science"
+                                        },
+                                        {
+                                            "type": 3,
+                                            "url": "medium://towards-data-science"
+                                        }
+                                    ],
+                                    "httpStatus": 200,
+                                    "url": "https://towardsdatascience.com"
+                                },
+                                {
+                                    "alts": [
+                                        {
+                                            "type": 2,
+                                            "url": "medium://p/30e2b5481c01"
+                                        },
+                                        {
+                                            "type": 3,
+                                            "url": "medium://p/30e2b5481c01"
+                                        }
+                                    ],
+                                    "httpStatus": 200,
+                                    "url": "https://medium.com/@williamkoehrsen/what-i-learned-in-2018-30e2b5481c01"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://developers.google.com/web/tools/chrome-devtools/"
+                                },
+                                {
+                                    "alts": [
+                                        {
+                                            "type": 2,
+                                            "url": "twitter://user?screen_name=koehrsen_will"
+                                        },
+                                        {
+                                            "type": 3,
+                                            "url": "twitter://user?screen_name=koehrsen_will"
+                                        }
+                                    ],
+                                    "httpStatus": 200,
+                                    "url": "http://twitter.com/@koehrsen_will"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://github.com/WillKoehrsen/Data-Analysis/blob/master/medium/visuals.py"
+                                },
+                                {
+                                    "alts": [
+                                        {
+                                            "type": 2,
+                                            "url": "medium://p/24d0893d51c0"
+                                        },
+                                        {
+                                            "type": 3,
+                                            "url": "medium://p/24d0893d51c0"
+                                        }
+                                    ],
+                                    "httpStatus": 200,
+                                    "url": "https://towardsdatascience.com/random-forest-in-python-24d0893d51c0"
+                                },
+                                {
+                                    "alts": [
+                                        {
+                                            "type": 1,
+                                            "url": "https://cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2017/1/18/14304276/walt-mossberg-online-ads-bad-business"
+                                        }
+                                    ],
+                                    "httpStatus": 200,
+                                    "url": "https://www.theverge.com/2017/1/18/14304276/walt-mossberg-online-ads-bad-business"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://www.crummy.com/software/BeautifulSoup/doc"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://www.statsdirect.com/help/regression_and_correlation/polynomial.htm"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://nbviewer.jupyter.org/github/WillKoehrsen/Data-Analysis/blob/master/medium/Medium%20Stats%20Analysis.ipynb"
+                                }
+                            ],
+                            "generatedAt": 1546351034710,
+                            "version": "0.3"
+                        },
+                        "metaDescription": "",
+                        "noIndex": false,
+                        "previewImage": {
+                            "backgroundSize": "",
+                            "filter": "",
+                            "height": 0,
+                            "imageId": "1*czF_DrUuxc_DaqonHtiYiQ.jpeg",
+                            "originalHeight": 2700,
+                            "originalWidth": 3600,
+                            "strategy": "resample",
+                            "width": 0
+                        },
+                        "publishedInCount": 1,
+                        "readingList": 0,
+                        "readingTime": 11.965094339622642,
+                        "recommends": 61,
+                        "responsesCreatedCount": 1,
+                        "sectionCount": 9,
+                        "socialRecommendsCount": 1,
+                        "statusForCollection": "APPROVED",
+                        "subtitle": "Data science with my Medium article statistics and simple Python tools you can use for yourself!",
+                        "tags": [
+                            {
+                                "metadata": {
+                                    "coverImage": {
+                                        "id": "1*l-6_W0JLRnm4c_6EgiCbgg.png",
+                                        "isFeatured": true,
+                                        "originalHeight": 1692,
+                                        "originalWidth": 1570
+                                    },
+                                    "postCount": 36686
+                                },
+                                "name": "Data Science",
+                                "postCount": 36686,
+                                "slug": "data-science",
+                                "type": "Tag"
+                            },
+                            {
+                                "metadata": {
+                                    "coverImage": {
+                                        "id": "1*D_tidaT-fHMY3DRLgjwekw.png",
+                                        "isFeatured": true,
+                                        "originalHeight": 1200,
+                                        "originalWidth": 1800
+                                    },
+                                    "postCount": 1610
+                                },
+                                "name": "Towards Data Science",
+                                "postCount": 1610,
+                                "slug": "towards-data-science",
+                                "type": "Tag"
+                            },
+                            {
+                                "metadata": {
+                                    "coverImage": {
+                                        "id": "0*Tw64Dw4oE1eXmVL8.jpg",
+                                        "isFeatured": true,
+                                        "originalHeight": 640,
+                                        "originalWidth": 960
+                                    },
+                                    "postCount": 21865
+                                },
+                                "name": "Python",
+                                "postCount": 21865,
+                                "slug": "python",
+                                "type": "Tag"
+                            },
+                            {
+                                "metadata": {
+                                    "coverImage": {
+                                        "id": "1*dVmAyTviHMkGJq46uvrLcg.jpeg"
+                                    },
+                                    "postCount": 209039
+                                },
+                                "name": "Education",
+                                "postCount": 209039,
+                                "slug": "education",
+                                "type": "Tag"
+                            },
+                            {
+                                "metadata": {
+                                    "coverImage": {
+                                        "id": "1*czF_DrUuxc_DaqonHtiYiQ.jpeg",
+                                        "isFeatured": true,
+                                        "originalHeight": 2700,
+                                        "originalWidth": 3600
+                                    },
+                                    "postCount": 5458
+                                },
+                                "name": "Data Analysis",
+                                "postCount": 5458,
+                                "slug": "data-analysis",
+                                "type": "Tag"
+                            }
+                        ],
+                        "takeoverId": "",
+                        "topics": [],
+                        "totalClapCount": 306,
+                        "userPostRelation": {
+                            "audioProgressSec": 0,
+                            "clapCount": 1,
+                            "collaboratorAddedAt": 0,
+                            "lastReadAt": 1546300839316,
+                            "lastReadParagraphName": "de4f",
+                            "lastReadPercentage": 0.93,
+                            "lastReadSectionName": "adee",
+                            "lastReadVersionId": "1507e97da247",
+                            "notesAddedAt": 0,
+                            "postId": "24c6491a8ff0",
+                            "presentedCountInResponseManagement": 0,
+                            "presentedCountInStream": 1,
+                            "queuedAt": 0,
+                            "readAt": 0,
+                            "readLaterAddedAt": 0,
+                            "seriesFirstViewedAt": 0,
+                            "seriesLastViewedAt": 0,
+                            "seriesUpdateNotifsOptedInAt": 0,
+                            "subscribedAt": 0,
+                            "userId": "ba4f38806830",
+                            "viewedAt": 1546300587852,
+                            "votedAt": 1546300605408
+                        },
+                        "usersBySocialRecommends": [
+                            {
+                                "allowNotes": 1,
+                                "backgroundImageId": "",
+                                "bio": "",
+                                "createdAt": 1461375310829,
+                                "facebookAccountId": "986642698100513",
+                                "imageId": "0*kF7kIY676m8ouK7k.png",
+                                "isNsfw": false,
+                                "mediumMemberAt": 0,
+                                "name": "Schalavadi",
+                                "twitterScreenName": "schalavadi2006",
+                                "type": "User",
+                                "userId": "d6492cc24d1c",
+                                "username": "schalavadi2006"
+                            }
+                        ],
+                        "wordCount": 2654
+                    },
+                    "visibility": 0,
+                    "vote": true,
+                    "webCanonicalUrl": ""
+                },
+                "6c68789e5a53": {
+                    "acceptedAt": 0,
+                    "allowResponses": true,
+                    "approvedHomeCollectionId": "",
+                    "audioVersionDurationSec": 0,
+                    "canonicalUrl": "",
+                    "content": {
+                        "postDisplay": {
+                            "coverless": true
+                        },
+                        "subtitle": "Exploring the incredible worldwide gains in prosperity: The Reality Project Episode 1."
+                    },
+                    "coverless": true,
+                    "createdAt": 1546358208921,
+                    "creatorId": "e2f299e30cb9",
+                    "curationEligibleAt": 0,
+                    "deletedAt": 0,
+                    "detectedLanguage": "en",
+                    "displayAuthor": "",
+                    "editorialPreviewDek": "",
+                    "editorialPreviewTitle": "",
+                    "experimentalCss": "",
+                    "featureLockRequestAcceptedAt": 0,
+                    "firstPublishedAt": 1546442915912,
+                    "hasUnpublishedEdits": false,
+                    "hightowerMinimumGuaranteeEndsAt": 0,
+                    "hightowerMinimumGuaranteeStartsAt": 0,
+                    "homeCollectionId": "",
+                    "id": "6c68789e5a53",
+                    "importedPublishedAt": 0,
+                    "importedUrl": "",
+                    "inResponseToMediaResourceId": "",
+                    "inResponseToPostId": "",
+                    "inResponseToRemovedAt": 0,
+                    "isApprovedTranslation": false,
+                    "isBlockedFromHightower": false,
+                    "isEligibleForRevenue": false,
+                    "isNsfw": false,
+                    "isSeries": false,
+                    "isSubscriptionLocked": false,
+                    "isTitleSynthesized": false,
+                    "latestPublishedAt": 1546442915912,
+                    "latestPublishedVersion": "ecc8ab375d3a",
+                    "latestRev": 1493,
+                    "latestVersion": "ecc8ab375d3a",
+                    "layerCake": 0,
+                    "license": 0,
+                    "lockedPostSource": 0,
+                    "mediumUrl": "",
+                    "migrationId": "",
+                    "mongerRequestType": 1,
+                    "newsletterId": "",
+                    "notifyFacebook": false,
+                    "notifyFollowers": true,
+                    "notifyTwitter": false,
+                    "previewContent": {
+                        "bodyModel": {
+                            "paragraphs": [
+                                {
+                                    "layout": 10,
+                                    "metadata": {
+                                        "id": "1*XBTSgLdf0PfM-smeYd4dvA.jpeg",
+                                        "isFeatured": true,
+                                        "originalHeight": 1500,
+                                        "originalWidth": 2250
+                                    },
+                                    "name": "previewImage",
+                                    "text": "",
+                                    "type": 4
+                                },
+                                {
+                                    "alignment": 1,
+                                    "markups": [],
+                                    "name": "7f0f",
+                                    "text": "The Disappearing Poor",
+                                    "type": 3
+                                },
+                                {
+                                    "alignment": 1,
+                                    "markups": [],
+                                    "name": "a45d",
+                                    "text": "Exploring the incredible worldwide gains in prosperity: The Reality Project\u2026",
+                                    "type": 13
+                                }
+                            ],
+                            "sections": [
+                                {
+                                    "startIndex": 0
+                                }
+                            ]
+                        },
+                        "isFullContent": false,
+                        "subtitle": "Exploring the incredible worldwide gains in prosperity: The Reality Project Episode 1."
+                    },
+                    "responseHiddenOnParentPostAt": 0,
+                    "sequenceId": "",
+                    "seriesLastAppendedAt": 0,
+                    "slug": "the-disappearing-poor",
+                    "socialDek": "",
+                    "socialTitle": "",
+                    "title": "The Disappearing Poor",
+                    "translationSourceCreatorId": "",
+                    "translationSourcePostId": "",
+                    "type": "Post",
+                    "uniqueSlug": "the-disappearing-poor-6c68789e5a53",
+                    "updatedAt": 1546442915912,
+                    "versionId": "ecc8ab375d3a",
+                    "virtuals": {
+                        "allowNotes": true,
+                        "imageCount": 13,
+                        "isBookmarked": false,
+                        "isLockedPreviewOnly": false,
+                        "links": {
+                            "entries": [
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "http://forms.gapminder.org/s3/test-2018"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://us.macmillan.com/books/9781250107817"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://ourworldindata.org/extreme-poverty"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://ourworldindata.org/economic-growth"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "http://www.rationaloptimist.com/"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "http://www.un.org/en/sections/about-un/funds-programmes-specialized-agencies-and-others/"
+                                },
+                                {
+                                    "alts": [
+                                        {
+                                            "type": 2,
+                                            "url": "twitter://user?screen_name=koehrsen_will"
+                                        },
+                                        {
+                                            "type": 3,
+                                            "url": "twitter://user?screen_name=koehrsen_will"
+                                        }
+                                    ],
+                                    "httpStatus": 200,
+                                    "url": "http://twitter.com/@koehrsen_will"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://en.wikipedia.org/wiki/Division_of_labour"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://en.wikipedia.org/wiki/Gini_coefficient"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://ourworldindata.org/trade-and-globalization"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 503,
+                                    "url": "https://www.amazon.com/Great-Transformation-Political-Economic-Origins/dp/080705643X"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://ourworldindata.org/income-inequality"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 503,
+                                    "url": "https://www.amazon.com/gp/product/1501700200/ref=as_li_tf_til?tag=foreaffamaga-20&camp=0&creative=0&linkCode=as1&creativeASIN=1501700200"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://ourworldindata.org/global-economic-inequality"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://ourworldindata.org/air-pollution#dirty-then-clean-the-environmental-kuznets-curve-in-air-pollution"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://ourworldindata.org/health-meta"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://ourworldindata.org/income-inequality#within-country-inequality-in-rich-countries"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://www.pexels.com/photo/beach-dawn-dusk-ocean-189349/"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://databank.worldbank.org/data/source/poverty-and-equity"
+                                },
+                                {
+                                    "alts": [
+                                        {
+                                            "type": 2,
+                                            "url": "medium://p/e16cc71abb64"
+                                        },
+                                        {
+                                            "type": 3,
+                                            "url": "medium://p/e16cc71abb64"
+                                        }
+                                    ],
+                                    "httpStatus": 200,
+                                    "url": "https://medium.com/@williamkoehrsen/announcing-the-reality-project-e16cc71abb64"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://www.gatesnotes.com/Books/Factfulness?WT.mc_id=04_03_2018_10_Factfulness_BG-media_&WT.tsrc=BGmedia"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://www.visualcapitalist.com/relationship-money-happiness/"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://www.weforum.org/agenda/2015/08/does-capitalism-cause-poverty/"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://www.visualcapitalist.com/decline-extreme-poverty-perspective/"
+                                },
+                                {
+                                    "alts": [
+                                        {
+                                            "type": 2,
+                                            "url": "vnd.youtube://www.youtube.com/watch?v=Sm5xF-UYgdg&feature=applinks"
+                                        },
+                                        {
+                                            "type": 3,
+                                            "url": "vnd.youtube://www.youtube.com/watch?v=Sm5xF-UYgdg&feature=applinks"
+                                        }
+                                    ],
+                                    "httpStatus": 200,
+                                    "url": "https://www.youtube.com/watch?v=Sm5xF-UYgdg"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://thediplomat.com/2018/06/chinas-reform-and-opening-40-years-and-counting/"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://www2.palomar.edu/anthro/homo/homo_4.htm"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://www.cambridge.org/core/books/commercial-revolution-of-the-middle-ages-9501350/27C2AF7F2C913BADCDC29631B71EA7BF"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "http://science.sciencemag.org/content/348/6236/1260799"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://www.un.org/sustainabledevelopment/poverty/"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://growthlab.cid.harvard.edu/news/what-should-we-do-about-inequality"
+                                }
+                            ],
+                            "generatedAt": 1546442919701,
+                            "version": "0.3"
+                        },
+                        "metaDescription": "",
+                        "noIndex": false,
+                        "previewImage": {
+                            "backgroundSize": "",
+                            "filter": "",
+                            "height": 0,
+                            "imageId": "1*XBTSgLdf0PfM-smeYd4dvA.jpeg",
+                            "originalHeight": 1500,
+                            "originalWidth": 2250,
+                            "strategy": "resample",
+                            "width": 0
+                        },
+                        "readingList": 0,
+                        "readingTime": 9.135849056603773,
+                        "recommends": 0,
+                        "responsesCreatedCount": 0,
+                        "sectionCount": 10,
+                        "socialRecommendsCount": 0,
+                        "subtitle": "Exploring the incredible worldwide gains in prosperity: The Reality Project Episode 1.",
+                        "tags": [
+                            {
+                                "metadata": {
+                                    "coverImage": {
+                                        "id": "1*mC6dTeGWs4uWGSpfJxKsaQ.png",
+                                        "isFeatured": true,
+                                        "originalHeight": 445,
+                                        "originalWidth": 720
+                                    },
+                                    "postCount": 21664
+                                },
+                                "name": "Data",
+                                "postCount": 21664,
+                                "slug": "data",
+                                "type": "Tag"
+                            },
+                            {
+                                "metadata": {
+                                    "coverImage": {
+                                        "id": "1*otQIaMR6_PjD-e2lMW4rIA.jpeg"
+                                    },
+                                    "postCount": 51157
+                                },
+                                "name": "Science",
+                                "postCount": 51157,
+                                "slug": "science",
+                                "type": "Tag"
+                            },
+                            {
+                                "metadata": {
+                                    "coverImage": {
+                                        "focusPercentX": 54,
+                                        "focusPercentY": 54,
+                                        "id": "1*EYH3XEkN0UfuX7J24Tybnw.jpeg",
+                                        "isFeatured": true,
+                                        "originalHeight": 1633,
+                                        "originalWidth": 2495
+                                    },
+                                    "postCount": 9137
+                                },
+                                "name": "World",
+                                "postCount": 9137,
+                                "slug": "world",
+                                "type": "Tag"
+                            },
+                            {
+                                "metadata": {
+                                    "coverImage": {
+                                        "id": "1*dVmAyTviHMkGJq46uvrLcg.jpeg"
+                                    },
+                                    "postCount": 209039
+                                },
+                                "name": "Education",
+                                "postCount": 209039,
+                                "slug": "education",
+                                "type": "Tag"
+                            },
+                            {
+                                "metadata": {
+                                    "coverImage": {
+                                        "id": "1*A3zt8zG2CdkLk3n_thoZsA.jpeg",
+                                        "isFeatured": true,
+                                        "originalHeight": 633,
+                                        "originalWidth": 1142
+                                    },
+                                    "postCount": 2418
+                                },
+                                "name": "Progress",
+                                "postCount": 2418,
+                                "slug": "progress",
+                                "type": "Tag"
+                            }
+                        ],
+                        "takeoverId": "",
+                        "topics": [],
+                        "totalClapCount": 0,
+                        "usersBySocialRecommends": [],
+                        "wordCount": 2050
+                    },
+                    "visibility": 0,
+                    "vote": false,
+                    "webCanonicalUrl": ""
+                },
+                "e16cc71abb64": {
+                    "acceptedAt": 0,
+                    "allowResponses": true,
+                    "approvedHomeCollectionId": "",
+                    "audioVersionDurationSec": 0,
+                    "canonicalUrl": "",
+                    "content": {
+                        "postDisplay": {
+                            "coverless": true
+                        },
+                        "subtitle": "Becoming less wrong about the world with data"
+                    },
+                    "coverless": true,
+                    "createdAt": 1546308526971,
+                    "creatorId": "e2f299e30cb9",
+                    "curationEligibleAt": 0,
+                    "deletedAt": 0,
+                    "detectedLanguage": "en",
+                    "displayAuthor": "",
+                    "editorialPreviewDek": "",
+                    "editorialPreviewTitle": "",
+                    "experimentalCss": "",
+                    "featureLockRequestAcceptedAt": 0,
+                    "firstPublishedAt": 1546438512631,
+                    "hasUnpublishedEdits": false,
+                    "hightowerMinimumGuaranteeEndsAt": 0,
+                    "hightowerMinimumGuaranteeStartsAt": 0,
+                    "homeCollectionId": "",
+                    "id": "e16cc71abb64",
+                    "importedPublishedAt": 0,
+                    "importedUrl": "",
+                    "inResponseToMediaResourceId": "",
+                    "inResponseToPostId": "",
+                    "inResponseToRemovedAt": 0,
+                    "isApprovedTranslation": false,
+                    "isBlockedFromHightower": false,
+                    "isEligibleForRevenue": false,
+                    "isNsfw": false,
+                    "isSeries": false,
+                    "isSubscriptionLocked": false,
+                    "isTitleSynthesized": false,
+                    "latestPublishedAt": 1546442951148,
+                    "latestPublishedVersion": "f249fd8641fb",
+                    "latestRev": 1873,
+                    "latestVersion": "f249fd8641fb",
+                    "layerCake": 0,
+                    "license": 0,
+                    "lockedPostSource": 0,
+                    "mediumUrl": "",
+                    "migrationId": "",
+                    "mongerRequestType": 1,
+                    "newsletterId": "",
+                    "notifyFacebook": false,
+                    "notifyFollowers": true,
+                    "notifyTwitter": false,
+                    "previewContent": {
+                        "bodyModel": {
+                            "paragraphs": [
+                                {
+                                    "layout": 10,
+                                    "metadata": {
+                                        "id": "1*Y_fzdakbUhLPqW0ZqMh00g.jpeg",
+                                        "isFeatured": true,
+                                        "originalHeight": 664,
+                                        "originalWidth": 1000
+                                    },
+                                    "name": "previewImage",
+                                    "text": "",
+                                    "type": 4
+                                },
+                                {
+                                    "alignment": 1,
+                                    "markups": [],
+                                    "name": "fbbe",
+                                    "text": "Announcing the Reality Project",
+                                    "type": 3
+                                },
+                                {
+                                    "alignment": 1,
+                                    "markups": [],
+                                    "name": "2ea2",
+                                    "text": "Becoming less wrong about the world with data",
+                                    "type": 13
+                                }
+                            ],
+                            "sections": [
+                                {
+                                    "startIndex": 0
+                                }
+                            ]
+                        },
+                        "isFullContent": false,
+                        "subtitle": "Becoming less wrong about the world with data"
+                    },
+                    "responseHiddenOnParentPostAt": 0,
+                    "sequenceId": "",
+                    "seriesLastAppendedAt": 0,
+                    "slug": "announcing-the-reality-project",
+                    "socialDek": "",
+                    "socialTitle": "",
+                    "title": "Announcing the Reality Project",
+                    "translationSourceCreatorId": "",
+                    "translationSourcePostId": "",
+                    "type": "Post",
+                    "uniqueSlug": "announcing-the-reality-project-e16cc71abb64",
+                    "updatedAt": 1546442951148,
+                    "versionId": "f249fd8641fb",
+                    "virtuals": {
+                        "allowNotes": true,
+                        "imageCount": 1,
+                        "isBookmarked": false,
+                        "isLockedPreviewOnly": false,
+                        "links": {
+                            "entries": [
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "http://www.rationaloptimist.com/"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://us.macmillan.com/books/9781250107817"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "http://forms.gapminder.org/s3/test-2018"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "http://www.un.org/en/sections/about-un/funds-programmes-specialized-agencies-and-others/"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://ourworldindata.org/extreme-poverty"
+                                },
+                                {
+                                    "alts": [
+                                        {
+                                            "type": 2,
+                                            "url": "twitter://user?screen_name=koehrsen_will"
+                                        },
+                                        {
+                                            "type": 3,
+                                            "url": "twitter://user?screen_name=koehrsen_will"
+                                        }
+                                    ],
+                                    "httpStatus": 200,
+                                    "url": "http://twitter.com/@koehrsen_will"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://ourworldindata.org/economic-growth"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://en.wikipedia.org/wiki/The_Power_of_Habit#Golden_Rule_of_Habit_Change"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://en.wikipedia.org/wiki/Gapminder_Foundation"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://ourworldindata.org/"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://ourworldindata.org"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://ourworldindata.org/vaccination"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://data.worldbank.org"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://www.gatesnotes.com/Health/Net-Impact"
+                                },
+                                {
+                                    "alts": [
+                                        {
+                                            "type": 1,
+                                            "url": "https://cdn.ampproject.org/c/s/www.universetoday.com/66916/stunning-sunrise-and-aurora-as-seen-from-the-space-station/amp/"
+                                        }
+                                    ],
+                                    "httpStatus": 200,
+                                    "url": "https://www.universetoday.com/66916/stunning-sunrise-and-aurora-as-seen-from-the-space-station/"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "http://gapminder.org"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://www.gapminder.org/"
+                                },
+                                {
+                                    "alts": [
+                                        {
+                                            "type": 2,
+                                            "url": "medium://p/6c68789e5a53"
+                                        },
+                                        {
+                                            "type": 3,
+                                            "url": "medium://p/6c68789e5a53"
+                                        }
+                                    ],
+                                    "httpStatus": 200,
+                                    "url": "https://medium.com/@williamkoehrsen/the-disappearing-poor-6c68789e5a53"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://databank.worldbank.org/data/home.aspx"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://www.gapminder.org/tools/"
+                                },
+                                {
+                                    "alts": [
+                                        {
+                                            "type": 3,
+                                            "url": "medium://p/f51600aa922a"
+                                        },
+                                        {
+                                            "type": 2,
+                                            "url": "medium://p/f51600aa922a"
+                                        }
+                                    ],
+                                    "httpStatus": 200,
+                                    "url": "https://medium.com/p/f51600aa922a?source=your_stories_page---------------------------"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://www.gatesnotes.com/Books/Factfulness"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://stevenpinker.com/publications/better-angels-our-nature"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://www.penguinrandomhouse.com/books/317051/enlightenment-now-by-steven-pinker/9780143111382/"
+                                },
+                                {
+                                    "alts": [
+                                        {
+                                            "type": 3,
+                                            "url": "nytimes://reader/id/100000001080507"
+                                        },
+                                        {
+                                            "type": 2,
+                                            "url": "nytimes://www.nytimes.com/2011/10/09/books/review/the-better-angels-of-our-nature-by-steven-pinker-book-review.html"
+                                        }
+                                    ],
+                                    "httpStatus": 200,
+                                    "url": "https://www.nytimes.com/2011/10/09/books/review/the-better-angels-of-our-nature-by-steven-pinker-book-review.html"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://www.gapminder.org/factfulness/"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3181802/"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://www.gapminder.org/about-gapminder/"
+                                },
+                                {
+                                    "alts": [
+                                        {
+                                            "type": 1,
+                                            "url": "https://cdn.ampproject.org/c/s/www.cbc.ca/amp/1.4668823"
+                                        }
+                                    ],
+                                    "httpStatus": 200,
+                                    "url": "https://www.cbc.ca/radio/ideas/enlightenment-now-why-steven-pinker-believes-in-progress-1.4668823"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://www.gapminder.org/ignorance/"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://blogs.scientificamerican.com/talking-back/new-clues-to-just-how-much-the-adult-brain-can-change/"
+                                }
+                            ],
+                            "generatedAt": 1546442952684,
+                            "version": "0.3"
+                        },
+                        "metaDescription": "",
+                        "noIndex": false,
+                        "previewImage": {
+                            "backgroundSize": "",
+                            "filter": "",
+                            "height": 0,
+                            "imageId": "1*Y_fzdakbUhLPqW0ZqMh00g.jpeg",
+                            "originalHeight": 664,
+                            "originalWidth": 1000,
+                            "strategy": "resample",
+                            "width": 0
+                        },
+                        "readingList": 0,
+                        "readingTime": 5.932075471698114,
+                        "recommends": 20,
+                        "responsesCreatedCount": 0,
+                        "sectionCount": 6,
+                        "socialRecommendsCount": 0,
+                        "subtitle": "Becoming less wrong about the world with data",
+                        "tags": [
+                            {
+                                "metadata": {
+                                    "coverImage": {
+                                        "id": "1*mC6dTeGWs4uWGSpfJxKsaQ.png",
+                                        "isFeatured": true,
+                                        "originalHeight": 445,
+                                        "originalWidth": 720
+                                    },
+                                    "postCount": 21664
+                                },
+                                "name": "Data",
+                                "postCount": 21664,
+                                "slug": "data",
+                                "type": "Tag"
+                            },
+                            {
+                                "metadata": {
+                                    "coverImage": {
+                                        "id": "1*otQIaMR6_PjD-e2lMW4rIA.jpeg"
+                                    },
+                                    "postCount": 51157
+                                },
+                                "name": "Science",
+                                "postCount": 51157,
+                                "slug": "science",
+                                "type": "Tag"
+                            },
+                            {
+                                "metadata": {
+                                    "coverImage": {
+                                        "id": "1*dVmAyTviHMkGJq46uvrLcg.jpeg"
+                                    },
+                                    "postCount": 209039
+                                },
+                                "name": "Education",
+                                "postCount": 209039,
+                                "slug": "education",
+                                "type": "Tag"
+                            },
+                            {
+                                "metadata": {
+                                    "coverImage": {
+                                        "focusPercentX": 54,
+                                        "focusPercentY": 54,
+                                        "id": "1*EYH3XEkN0UfuX7J24Tybnw.jpeg",
+                                        "isFeatured": true,
+                                        "originalHeight": 1633,
+                                        "originalWidth": 2495
+                                    },
+                                    "postCount": 9137
+                                },
+                                "name": "World",
+                                "postCount": 9137,
+                                "slug": "world",
+                                "type": "Tag"
+                            },
+                            {
+                                "metadata": {
+                                    "coverImage": {
+                                        "id": "1*D_tidaT-fHMY3DRLgjwekw.png",
+                                        "isFeatured": true,
+                                        "originalHeight": 1200,
+                                        "originalWidth": 1800
+                                    },
+                                    "postCount": 5762
+                                },
+                                "name": "Statistics",
+                                "postCount": 5762,
+                                "slug": "statistics",
+                                "type": "Tag"
+                            }
+                        ],
+                        "takeoverId": "",
+                        "topics": [],
+                        "totalClapCount": 215,
+                        "usersBySocialRecommends": [],
+                        "wordCount": 1519
+                    },
+                    "visibility": 0,
+                    "vote": false,
+                    "webCanonicalUrl": ""
+                }
+            },
+            "username": "saurabh.yadav919"
+        },
+        {
+            "posts": {
+                "24c6491a8ff0": {
+                    "acceptedAt": 0,
+                    "allowResponses": true,
+                    "approvedHomeCollectionId": "7f60cf5620c9",
+                    "audioVersionDurationSec": 0,
+                    "canonicalUrl": "",
+                    "content": {
+                        "postDisplay": {
+                            "coverless": true
+                        },
+                        "subtitle": "Data science with my Medium article statistics and simple Python tools you can use for yourself!"
+                    },
+                    "coverless": true,
+                    "createdAt": 1546210562018,
+                    "creatorId": "e2f299e30cb9",
+                    "curationEligibleAt": 0,
+                    "deletedAt": 0,
+                    "detectedLanguage": "en",
+                    "displayAuthor": "",
+                    "editorialPreviewDek": "",
+                    "editorialPreviewTitle": "",
+                    "experimentalCss": "",
+                    "featureLockRequestAcceptedAt": 0,
+                    "firstPublishedAt": 1546300377981,
+                    "hasUnpublishedEdits": false,
+                    "hightowerMinimumGuaranteeEndsAt": 0,
+                    "hightowerMinimumGuaranteeStartsAt": 0,
+                    "homeCollectionId": "7f60cf5620c9",
+                    "id": "24c6491a8ff0",
+                    "importedPublishedAt": 0,
+                    "importedUrl": "",
+                    "inResponseToMediaResourceId": "",
+                    "inResponseToPostId": "",
+                    "inResponseToRemovedAt": 0,
+                    "isApprovedTranslation": false,
+                    "isBlockedFromHightower": false,
+                    "isEligibleForRevenue": false,
+                    "isNsfw": false,
+                    "isSeries": false,
+                    "isSubscriptionLocked": false,
+                    "isTitleSynthesized": false,
+                    "latestPublishedAt": 1546351026631,
+                    "latestPublishedVersion": "e7790a315685",
+                    "latestRev": 2074,
+                    "latestVersion": "e7790a315685",
+                    "layerCake": 4,
+                    "license": 0,
+                    "lockedPostSource": 0,
+                    "mediumUrl": "",
+                    "migrationId": "",
+                    "mongerRequestType": 1,
+                    "newsletterId": "",
+                    "notifyFacebook": false,
+                    "notifyFollowers": true,
+                    "notifyTwitter": false,
+                    "previewContent": {
+                        "bodyModel": {
+                            "paragraphs": [
+                                {
+                                    "layout": 10,
+                                    "metadata": {
+                                        "id": "1*czF_DrUuxc_DaqonHtiYiQ.jpeg",
+                                        "isFeatured": true,
+                                        "originalHeight": 2700,
+                                        "originalWidth": 3600
+                                    },
+                                    "name": "previewImage",
+                                    "text": "",
+                                    "type": 4
+                                },
+                                {
+                                    "alignment": 1,
+                                    "name": "previewTitle",
+                                    "text": "Analyzing Medium Story Stats with Python",
+                                    "type": 3
+                                },
+                                {
+                                    "alignment": 1,
+                                    "name": "previewSubtitle",
+                                    "text": "Data science with my Medium article statistics and simple\u2026",
+                                    "type": 13
+                                }
+                            ],
+                            "sections": [
+                                {
+                                    "startIndex": 0
+                                }
+                            ]
+                        },
+                        "isFullContent": false,
+                        "subtitle": "Data science with my Medium article statistics and simple Python tools you can use for yourself!"
+                    },
+                    "responseHiddenOnParentPostAt": 0,
+                    "sequenceId": "",
+                    "seriesLastAppendedAt": 0,
+                    "slug": "analyzing-medium-story-stats-with-python",
+                    "socialDek": "",
+                    "socialTitle": "",
+                    "title": "Analyzing Medium Story Stats with Python",
+                    "translationSourceCreatorId": "",
+                    "translationSourcePostId": "",
+                    "type": "Post",
+                    "uniqueSlug": "analyzing-medium-story-stats-with-python-24c6491a8ff0",
+                    "updatedAt": 1546351026735,
+                    "versionId": "e7790a315685",
+                    "virtuals": {
+                        "allowNotes": true,
+                        "imageCount": 24,
+                        "isBookmarked": false,
+                        "isLockedPreviewOnly": false,
+                        "links": {
+                            "entries": [
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://en.wikipedia.org/wiki/HTML"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://docs.python.org/2/library/multiprocessing.html"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://plot.ly/create/"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://stats.stackexchange.com/questions/17565/choosing-the-best-model-from-among-different-best-models"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://stats.stackexchange.com/questions/57407/what-is-the-meaning-of-all-models-are-wrong-but-some-are-useful"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://plot.ly/python/"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://plot.ly/ipython-notebooks/cufflinks/"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://machinelearningmastery.com/overfitting-and-underfitting-with-machine-learning-algorithms/"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://github.com/WillKoehrsen/Data-Analysis/blob/master/medium/Medium%20Stats%20Analysis.ipynb"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "http://docs.python-requests.org/en/master/"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://github.com/WillKoehrsen/Data-Analysis/tree/master/medium"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://www.w3.org/TR/WD-DOM/introduction.html"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://ncss-wpengine.netdna-ssl.com/wp-content/themes/ncss/pdf/Procedures/NCSS/Scatter_Plot_Matrix.pdf"
+                                },
+                                {
+                                    "alts": [
+                                        {
+                                            "type": 2,
+                                            "url": "medium://m/signin"
+                                        },
+                                        {
+                                            "type": 3,
+                                            "url": "medium://m/signin"
+                                        }
+                                    ],
+                                    "httpStatus": 200,
+                                    "url": "https://medium.com/me/stats"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://github.com/WillKoehrsen/Data-Analysis/blob/master/medium/retrieval.py"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://github.com/WillKoehrsen/Data-Analysis/tree/master/medium/data"
+                                },
+                                {
+                                    "alts": [
+                                        {
+                                            "type": 2,
+                                            "url": "medium://towards-data-science"
+                                        },
+                                        {
+                                            "type": 3,
+                                            "url": "medium://towards-data-science"
+                                        }
+                                    ],
+                                    "httpStatus": 200,
+                                    "url": "https://towardsdatascience.com"
+                                },
+                                {
+                                    "alts": [
+                                        {
+                                            "type": 2,
+                                            "url": "medium://p/30e2b5481c01"
+                                        },
+                                        {
+                                            "type": 3,
+                                            "url": "medium://p/30e2b5481c01"
+                                        }
+                                    ],
+                                    "httpStatus": 200,
+                                    "url": "https://medium.com/@williamkoehrsen/what-i-learned-in-2018-30e2b5481c01"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://developers.google.com/web/tools/chrome-devtools/"
+                                },
+                                {
+                                    "alts": [
+                                        {
+                                            "type": 2,
+                                            "url": "twitter://user?screen_name=koehrsen_will"
+                                        },
+                                        {
+                                            "type": 3,
+                                            "url": "twitter://user?screen_name=koehrsen_will"
+                                        }
+                                    ],
+                                    "httpStatus": 200,
+                                    "url": "http://twitter.com/@koehrsen_will"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://github.com/WillKoehrsen/Data-Analysis/blob/master/medium/visuals.py"
+                                },
+                                {
+                                    "alts": [
+                                        {
+                                            "type": 2,
+                                            "url": "medium://p/24d0893d51c0"
+                                        },
+                                        {
+                                            "type": 3,
+                                            "url": "medium://p/24d0893d51c0"
+                                        }
+                                    ],
+                                    "httpStatus": 200,
+                                    "url": "https://towardsdatascience.com/random-forest-in-python-24d0893d51c0"
+                                },
+                                {
+                                    "alts": [
+                                        {
+                                            "type": 1,
+                                            "url": "https://cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2017/1/18/14304276/walt-mossberg-online-ads-bad-business"
+                                        }
+                                    ],
+                                    "httpStatus": 200,
+                                    "url": "https://www.theverge.com/2017/1/18/14304276/walt-mossberg-online-ads-bad-business"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://www.crummy.com/software/BeautifulSoup/doc"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://www.statsdirect.com/help/regression_and_correlation/polynomial.htm"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://nbviewer.jupyter.org/github/WillKoehrsen/Data-Analysis/blob/master/medium/Medium%20Stats%20Analysis.ipynb"
+                                }
+                            ],
+                            "generatedAt": 1546351034710,
+                            "version": "0.3"
+                        },
+                        "metaDescription": "",
+                        "noIndex": false,
+                        "previewImage": {
+                            "backgroundSize": "",
+                            "filter": "",
+                            "height": 0,
+                            "imageId": "1*czF_DrUuxc_DaqonHtiYiQ.jpeg",
+                            "originalHeight": 2700,
+                            "originalWidth": 3600,
+                            "strategy": "resample",
+                            "width": 0
+                        },
+                        "publishedInCount": 1,
+                        "readingList": 0,
+                        "readingTime": 11.965094339622642,
+                        "recommends": 61,
+                        "responsesCreatedCount": 1,
+                        "sectionCount": 9,
+                        "socialRecommendsCount": 1,
+                        "statusForCollection": "APPROVED",
+                        "subtitle": "Data science with my Medium article statistics and simple Python tools you can use for yourself!",
+                        "tags": [
+                            {
+                                "metadata": {
+                                    "coverImage": {
+                                        "id": "1*l-6_W0JLRnm4c_6EgiCbgg.png",
+                                        "isFeatured": true,
+                                        "originalHeight": 1692,
+                                        "originalWidth": 1570
+                                    },
+                                    "postCount": 36686
+                                },
+                                "name": "Data Science",
+                                "postCount": 36686,
+                                "slug": "data-science",
+                                "type": "Tag"
+                            },
+                            {
+                                "metadata": {
+                                    "coverImage": {
+                                        "id": "1*D_tidaT-fHMY3DRLgjwekw.png",
+                                        "isFeatured": true,
+                                        "originalHeight": 1200,
+                                        "originalWidth": 1800
+                                    },
+                                    "postCount": 1610
+                                },
+                                "name": "Towards Data Science",
+                                "postCount": 1610,
+                                "slug": "towards-data-science",
+                                "type": "Tag"
+                            },
+                            {
+                                "metadata": {
+                                    "coverImage": {
+                                        "id": "0*Tw64Dw4oE1eXmVL8.jpg",
+                                        "isFeatured": true,
+                                        "originalHeight": 640,
+                                        "originalWidth": 960
+                                    },
+                                    "postCount": 21865
+                                },
+                                "name": "Python",
+                                "postCount": 21865,
+                                "slug": "python",
+                                "type": "Tag"
+                            },
+                            {
+                                "metadata": {
+                                    "coverImage": {
+                                        "id": "1*dVmAyTviHMkGJq46uvrLcg.jpeg"
+                                    },
+                                    "postCount": 209039
+                                },
+                                "name": "Education",
+                                "postCount": 209039,
+                                "slug": "education",
+                                "type": "Tag"
+                            },
+                            {
+                                "metadata": {
+                                    "coverImage": {
+                                        "id": "1*czF_DrUuxc_DaqonHtiYiQ.jpeg",
+                                        "isFeatured": true,
+                                        "originalHeight": 2700,
+                                        "originalWidth": 3600
+                                    },
+                                    "postCount": 5458
+                                },
+                                "name": "Data Analysis",
+                                "postCount": 5458,
+                                "slug": "data-analysis",
+                                "type": "Tag"
+                            }
+                        ],
+                        "takeoverId": "",
+                        "topics": [],
+                        "totalClapCount": 306,
+                        "userPostRelation": {
+                            "audioProgressSec": 0,
+                            "clapCount": 1,
+                            "collaboratorAddedAt": 0,
+                            "lastReadAt": 1546300839316,
+                            "lastReadParagraphName": "de4f",
+                            "lastReadPercentage": 0.93,
+                            "lastReadSectionName": "adee",
+                            "lastReadVersionId": "1507e97da247",
+                            "notesAddedAt": 0,
+                            "postId": "24c6491a8ff0",
+                            "presentedCountInResponseManagement": 0,
+                            "presentedCountInStream": 1,
+                            "queuedAt": 0,
+                            "readAt": 0,
+                            "readLaterAddedAt": 0,
+                            "seriesFirstViewedAt": 0,
+                            "seriesLastViewedAt": 0,
+                            "seriesUpdateNotifsOptedInAt": 0,
+                            "subscribedAt": 0,
+                            "userId": "ba4f38806830",
+                            "viewedAt": 1546300587852,
+                            "votedAt": 1546300605408
+                        },
+                        "usersBySocialRecommends": [
+                            {
+                                "allowNotes": 1,
+                                "backgroundImageId": "",
+                                "bio": "",
+                                "createdAt": 1461375310829,
+                                "facebookAccountId": "986642698100513",
+                                "imageId": "0*kF7kIY676m8ouK7k.png",
+                                "isNsfw": false,
+                                "mediumMemberAt": 0,
+                                "name": "Schalavadi",
+                                "twitterScreenName": "schalavadi2006",
+                                "type": "User",
+                                "userId": "d6492cc24d1c",
+                                "username": "schalavadi2006"
+                            }
+                        ],
+                        "wordCount": 2654
+                    },
+                    "visibility": 0,
+                    "vote": true,
+                    "webCanonicalUrl": ""
+                },
+                "6c68789e5a53": {
+                    "acceptedAt": 0,
+                    "allowResponses": true,
+                    "approvedHomeCollectionId": "",
+                    "audioVersionDurationSec": 0,
+                    "canonicalUrl": "",
+                    "content": {
+                        "postDisplay": {
+                            "coverless": true
+                        },
+                        "subtitle": "Exploring the incredible worldwide gains in prosperity: The Reality Project Episode 1."
+                    },
+                    "coverless": true,
+                    "createdAt": 1546358208921,
+                    "creatorId": "e2f299e30cb9",
+                    "curationEligibleAt": 0,
+                    "deletedAt": 0,
+                    "detectedLanguage": "en",
+                    "displayAuthor": "",
+                    "editorialPreviewDek": "",
+                    "editorialPreviewTitle": "",
+                    "experimentalCss": "",
+                    "featureLockRequestAcceptedAt": 0,
+                    "firstPublishedAt": 1546442915912,
+                    "hasUnpublishedEdits": false,
+                    "hightowerMinimumGuaranteeEndsAt": 0,
+                    "hightowerMinimumGuaranteeStartsAt": 0,
+                    "homeCollectionId": "",
+                    "id": "6c68789e5a53",
+                    "importedPublishedAt": 0,
+                    "importedUrl": "",
+                    "inResponseToMediaResourceId": "",
+                    "inResponseToPostId": "",
+                    "inResponseToRemovedAt": 0,
+                    "isApprovedTranslation": false,
+                    "isBlockedFromHightower": false,
+                    "isEligibleForRevenue": false,
+                    "isNsfw": false,
+                    "isSeries": false,
+                    "isSubscriptionLocked": false,
+                    "isTitleSynthesized": false,
+                    "latestPublishedAt": 1546442915912,
+                    "latestPublishedVersion": "ecc8ab375d3a",
+                    "latestRev": 1493,
+                    "latestVersion": "ecc8ab375d3a",
+                    "layerCake": 0,
+                    "license": 0,
+                    "lockedPostSource": 0,
+                    "mediumUrl": "",
+                    "migrationId": "",
+                    "mongerRequestType": 1,
+                    "newsletterId": "",
+                    "notifyFacebook": false,
+                    "notifyFollowers": true,
+                    "notifyTwitter": false,
+                    "previewContent": {
+                        "bodyModel": {
+                            "paragraphs": [
+                                {
+                                    "layout": 10,
+                                    "metadata": {
+                                        "id": "1*XBTSgLdf0PfM-smeYd4dvA.jpeg",
+                                        "isFeatured": true,
+                                        "originalHeight": 1500,
+                                        "originalWidth": 2250
+                                    },
+                                    "name": "previewImage",
+                                    "text": "",
+                                    "type": 4
+                                },
+                                {
+                                    "alignment": 1,
+                                    "markups": [],
+                                    "name": "7f0f",
+                                    "text": "The Disappearing Poor",
+                                    "type": 3
+                                },
+                                {
+                                    "alignment": 1,
+                                    "markups": [],
+                                    "name": "a45d",
+                                    "text": "Exploring the incredible worldwide gains in prosperity: The Reality Project\u2026",
+                                    "type": 13
+                                }
+                            ],
+                            "sections": [
+                                {
+                                    "startIndex": 0
+                                }
+                            ]
+                        },
+                        "isFullContent": false,
+                        "subtitle": "Exploring the incredible worldwide gains in prosperity: The Reality Project Episode 1."
+                    },
+                    "responseHiddenOnParentPostAt": 0,
+                    "sequenceId": "",
+                    "seriesLastAppendedAt": 0,
+                    "slug": "the-disappearing-poor",
+                    "socialDek": "",
+                    "socialTitle": "",
+                    "title": "The Disappearing Poor",
+                    "translationSourceCreatorId": "",
+                    "translationSourcePostId": "",
+                    "type": "Post",
+                    "uniqueSlug": "the-disappearing-poor-6c68789e5a53",
+                    "updatedAt": 1546442915912,
+                    "versionId": "ecc8ab375d3a",
+                    "virtuals": {
+                        "allowNotes": true,
+                        "imageCount": 13,
+                        "isBookmarked": false,
+                        "isLockedPreviewOnly": false,
+                        "links": {
+                            "entries": [
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "http://forms.gapminder.org/s3/test-2018"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://us.macmillan.com/books/9781250107817"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://ourworldindata.org/extreme-poverty"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://ourworldindata.org/economic-growth"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "http://www.rationaloptimist.com/"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "http://www.un.org/en/sections/about-un/funds-programmes-specialized-agencies-and-others/"
+                                },
+                                {
+                                    "alts": [
+                                        {
+                                            "type": 2,
+                                            "url": "twitter://user?screen_name=koehrsen_will"
+                                        },
+                                        {
+                                            "type": 3,
+                                            "url": "twitter://user?screen_name=koehrsen_will"
+                                        }
+                                    ],
+                                    "httpStatus": 200,
+                                    "url": "http://twitter.com/@koehrsen_will"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://en.wikipedia.org/wiki/Division_of_labour"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://en.wikipedia.org/wiki/Gini_coefficient"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://ourworldindata.org/trade-and-globalization"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 503,
+                                    "url": "https://www.amazon.com/Great-Transformation-Political-Economic-Origins/dp/080705643X"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://ourworldindata.org/income-inequality"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 503,
+                                    "url": "https://www.amazon.com/gp/product/1501700200/ref=as_li_tf_til?tag=foreaffamaga-20&camp=0&creative=0&linkCode=as1&creativeASIN=1501700200"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://ourworldindata.org/global-economic-inequality"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://ourworldindata.org/air-pollution#dirty-then-clean-the-environmental-kuznets-curve-in-air-pollution"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://ourworldindata.org/health-meta"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://ourworldindata.org/income-inequality#within-country-inequality-in-rich-countries"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://www.pexels.com/photo/beach-dawn-dusk-ocean-189349/"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://databank.worldbank.org/data/source/poverty-and-equity"
+                                },
+                                {
+                                    "alts": [
+                                        {
+                                            "type": 2,
+                                            "url": "medium://p/e16cc71abb64"
+                                        },
+                                        {
+                                            "type": 3,
+                                            "url": "medium://p/e16cc71abb64"
+                                        }
+                                    ],
+                                    "httpStatus": 200,
+                                    "url": "https://medium.com/@williamkoehrsen/announcing-the-reality-project-e16cc71abb64"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://www.gatesnotes.com/Books/Factfulness?WT.mc_id=04_03_2018_10_Factfulness_BG-media_&WT.tsrc=BGmedia"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://www.visualcapitalist.com/relationship-money-happiness/"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://www.weforum.org/agenda/2015/08/does-capitalism-cause-poverty/"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://www.visualcapitalist.com/decline-extreme-poverty-perspective/"
+                                },
+                                {
+                                    "alts": [
+                                        {
+                                            "type": 2,
+                                            "url": "vnd.youtube://www.youtube.com/watch?v=Sm5xF-UYgdg&feature=applinks"
+                                        },
+                                        {
+                                            "type": 3,
+                                            "url": "vnd.youtube://www.youtube.com/watch?v=Sm5xF-UYgdg&feature=applinks"
+                                        }
+                                    ],
+                                    "httpStatus": 200,
+                                    "url": "https://www.youtube.com/watch?v=Sm5xF-UYgdg"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://thediplomat.com/2018/06/chinas-reform-and-opening-40-years-and-counting/"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://www2.palomar.edu/anthro/homo/homo_4.htm"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://www.cambridge.org/core/books/commercial-revolution-of-the-middle-ages-9501350/27C2AF7F2C913BADCDC29631B71EA7BF"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "http://science.sciencemag.org/content/348/6236/1260799"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://www.un.org/sustainabledevelopment/poverty/"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://growthlab.cid.harvard.edu/news/what-should-we-do-about-inequality"
+                                }
+                            ],
+                            "generatedAt": 1546442919701,
+                            "version": "0.3"
+                        },
+                        "metaDescription": "",
+                        "noIndex": false,
+                        "previewImage": {
+                            "backgroundSize": "",
+                            "filter": "",
+                            "height": 0,
+                            "imageId": "1*XBTSgLdf0PfM-smeYd4dvA.jpeg",
+                            "originalHeight": 1500,
+                            "originalWidth": 2250,
+                            "strategy": "resample",
+                            "width": 0
+                        },
+                        "readingList": 0,
+                        "readingTime": 9.135849056603773,
+                        "recommends": 0,
+                        "responsesCreatedCount": 0,
+                        "sectionCount": 10,
+                        "socialRecommendsCount": 0,
+                        "subtitle": "Exploring the incredible worldwide gains in prosperity: The Reality Project Episode 1.",
+                        "tags": [
+                            {
+                                "metadata": {
+                                    "coverImage": {
+                                        "id": "1*mC6dTeGWs4uWGSpfJxKsaQ.png",
+                                        "isFeatured": true,
+                                        "originalHeight": 445,
+                                        "originalWidth": 720
+                                    },
+                                    "postCount": 21664
+                                },
+                                "name": "Data",
+                                "postCount": 21664,
+                                "slug": "data",
+                                "type": "Tag"
+                            },
+                            {
+                                "metadata": {
+                                    "coverImage": {
+                                        "id": "1*otQIaMR6_PjD-e2lMW4rIA.jpeg"
+                                    },
+                                    "postCount": 51157
+                                },
+                                "name": "Science",
+                                "postCount": 51157,
+                                "slug": "science",
+                                "type": "Tag"
+                            },
+                            {
+                                "metadata": {
+                                    "coverImage": {
+                                        "focusPercentX": 54,
+                                        "focusPercentY": 54,
+                                        "id": "1*EYH3XEkN0UfuX7J24Tybnw.jpeg",
+                                        "isFeatured": true,
+                                        "originalHeight": 1633,
+                                        "originalWidth": 2495
+                                    },
+                                    "postCount": 9137
+                                },
+                                "name": "World",
+                                "postCount": 9137,
+                                "slug": "world",
+                                "type": "Tag"
+                            },
+                            {
+                                "metadata": {
+                                    "coverImage": {
+                                        "id": "1*dVmAyTviHMkGJq46uvrLcg.jpeg"
+                                    },
+                                    "postCount": 209039
+                                },
+                                "name": "Education",
+                                "postCount": 209039,
+                                "slug": "education",
+                                "type": "Tag"
+                            },
+                            {
+                                "metadata": {
+                                    "coverImage": {
+                                        "id": "1*A3zt8zG2CdkLk3n_thoZsA.jpeg",
+                                        "isFeatured": true,
+                                        "originalHeight": 633,
+                                        "originalWidth": 1142
+                                    },
+                                    "postCount": 2418
+                                },
+                                "name": "Progress",
+                                "postCount": 2418,
+                                "slug": "progress",
+                                "type": "Tag"
+                            }
+                        ],
+                        "takeoverId": "",
+                        "topics": [],
+                        "totalClapCount": 0,
+                        "usersBySocialRecommends": [],
+                        "wordCount": 2050
+                    },
+                    "visibility": 0,
+                    "vote": false,
+                    "webCanonicalUrl": ""
+                },
+                "e16cc71abb64": {
+                    "acceptedAt": 0,
+                    "allowResponses": true,
+                    "approvedHomeCollectionId": "",
+                    "audioVersionDurationSec": 0,
+                    "canonicalUrl": "",
+                    "content": {
+                        "postDisplay": {
+                            "coverless": true
+                        },
+                        "subtitle": "Becoming less wrong about the world with data"
+                    },
+                    "coverless": true,
+                    "createdAt": 1546308526971,
+                    "creatorId": "e2f299e30cb9",
+                    "curationEligibleAt": 0,
+                    "deletedAt": 0,
+                    "detectedLanguage": "en",
+                    "displayAuthor": "",
+                    "editorialPreviewDek": "",
+                    "editorialPreviewTitle": "",
+                    "experimentalCss": "",
+                    "featureLockRequestAcceptedAt": 0,
+                    "firstPublishedAt": 1546438512631,
+                    "hasUnpublishedEdits": false,
+                    "hightowerMinimumGuaranteeEndsAt": 0,
+                    "hightowerMinimumGuaranteeStartsAt": 0,
+                    "homeCollectionId": "",
+                    "id": "e16cc71abb64",
+                    "importedPublishedAt": 0,
+                    "importedUrl": "",
+                    "inResponseToMediaResourceId": "",
+                    "inResponseToPostId": "",
+                    "inResponseToRemovedAt": 0,
+                    "isApprovedTranslation": false,
+                    "isBlockedFromHightower": false,
+                    "isEligibleForRevenue": false,
+                    "isNsfw": false,
+                    "isSeries": false,
+                    "isSubscriptionLocked": false,
+                    "isTitleSynthesized": false,
+                    "latestPublishedAt": 1546442951148,
+                    "latestPublishedVersion": "f249fd8641fb",
+                    "latestRev": 1873,
+                    "latestVersion": "f249fd8641fb",
+                    "layerCake": 0,
+                    "license": 0,
+                    "lockedPostSource": 0,
+                    "mediumUrl": "",
+                    "migrationId": "",
+                    "mongerRequestType": 1,
+                    "newsletterId": "",
+                    "notifyFacebook": false,
+                    "notifyFollowers": true,
+                    "notifyTwitter": false,
+                    "previewContent": {
+                        "bodyModel": {
+                            "paragraphs": [
+                                {
+                                    "layout": 10,
+                                    "metadata": {
+                                        "id": "1*Y_fzdakbUhLPqW0ZqMh00g.jpeg",
+                                        "isFeatured": true,
+                                        "originalHeight": 664,
+                                        "originalWidth": 1000
+                                    },
+                                    "name": "previewImage",
+                                    "text": "",
+                                    "type": 4
+                                },
+                                {
+                                    "alignment": 1,
+                                    "markups": [],
+                                    "name": "fbbe",
+                                    "text": "Announcing the Reality Project",
+                                    "type": 3
+                                },
+                                {
+                                    "alignment": 1,
+                                    "markups": [],
+                                    "name": "2ea2",
+                                    "text": "Becoming less wrong about the world with data",
+                                    "type": 13
+                                }
+                            ],
+                            "sections": [
+                                {
+                                    "startIndex": 0
+                                }
+                            ]
+                        },
+                        "isFullContent": false,
+                        "subtitle": "Becoming less wrong about the world with data"
+                    },
+                    "responseHiddenOnParentPostAt": 0,
+                    "sequenceId": "",
+                    "seriesLastAppendedAt": 0,
+                    "slug": "announcing-the-reality-project",
+                    "socialDek": "",
+                    "socialTitle": "",
+                    "title": "Announcing the Reality Project",
+                    "translationSourceCreatorId": "",
+                    "translationSourcePostId": "",
+                    "type": "Post",
+                    "uniqueSlug": "announcing-the-reality-project-e16cc71abb64",
+                    "updatedAt": 1546442951148,
+                    "versionId": "f249fd8641fb",
+                    "virtuals": {
+                        "allowNotes": true,
+                        "imageCount": 1,
+                        "isBookmarked": false,
+                        "isLockedPreviewOnly": false,
+                        "links": {
+                            "entries": [
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "http://www.rationaloptimist.com/"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://us.macmillan.com/books/9781250107817"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "http://forms.gapminder.org/s3/test-2018"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "http://www.un.org/en/sections/about-un/funds-programmes-specialized-agencies-and-others/"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://ourworldindata.org/extreme-poverty"
+                                },
+                                {
+                                    "alts": [
+                                        {
+                                            "type": 2,
+                                            "url": "twitter://user?screen_name=koehrsen_will"
+                                        },
+                                        {
+                                            "type": 3,
+                                            "url": "twitter://user?screen_name=koehrsen_will"
+                                        }
+                                    ],
+                                    "httpStatus": 200,
+                                    "url": "http://twitter.com/@koehrsen_will"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://ourworldindata.org/economic-growth"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://en.wikipedia.org/wiki/The_Power_of_Habit#Golden_Rule_of_Habit_Change"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://en.wikipedia.org/wiki/Gapminder_Foundation"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://ourworldindata.org/"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://ourworldindata.org"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://ourworldindata.org/vaccination"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://data.worldbank.org"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://www.gatesnotes.com/Health/Net-Impact"
+                                },
+                                {
+                                    "alts": [
+                                        {
+                                            "type": 1,
+                                            "url": "https://cdn.ampproject.org/c/s/www.universetoday.com/66916/stunning-sunrise-and-aurora-as-seen-from-the-space-station/amp/"
+                                        }
+                                    ],
+                                    "httpStatus": 200,
+                                    "url": "https://www.universetoday.com/66916/stunning-sunrise-and-aurora-as-seen-from-the-space-station/"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "http://gapminder.org"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://www.gapminder.org/"
+                                },
+                                {
+                                    "alts": [
+                                        {
+                                            "type": 2,
+                                            "url": "medium://p/6c68789e5a53"
+                                        },
+                                        {
+                                            "type": 3,
+                                            "url": "medium://p/6c68789e5a53"
+                                        }
+                                    ],
+                                    "httpStatus": 200,
+                                    "url": "https://medium.com/@williamkoehrsen/the-disappearing-poor-6c68789e5a53"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://databank.worldbank.org/data/home.aspx"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://www.gapminder.org/tools/"
+                                },
+                                {
+                                    "alts": [
+                                        {
+                                            "type": 3,
+                                            "url": "medium://p/f51600aa922a"
+                                        },
+                                        {
+                                            "type": 2,
+                                            "url": "medium://p/f51600aa922a"
+                                        }
+                                    ],
+                                    "httpStatus": 200,
+                                    "url": "https://medium.com/p/f51600aa922a?source=your_stories_page---------------------------"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://www.gatesnotes.com/Books/Factfulness"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://stevenpinker.com/publications/better-angels-our-nature"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://www.penguinrandomhouse.com/books/317051/enlightenment-now-by-steven-pinker/9780143111382/"
+                                },
+                                {
+                                    "alts": [
+                                        {
+                                            "type": 3,
+                                            "url": "nytimes://reader/id/100000001080507"
+                                        },
+                                        {
+                                            "type": 2,
+                                            "url": "nytimes://www.nytimes.com/2011/10/09/books/review/the-better-angels-of-our-nature-by-steven-pinker-book-review.html"
+                                        }
+                                    ],
+                                    "httpStatus": 200,
+                                    "url": "https://www.nytimes.com/2011/10/09/books/review/the-better-angels-of-our-nature-by-steven-pinker-book-review.html"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://www.gapminder.org/factfulness/"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3181802/"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://www.gapminder.org/about-gapminder/"
+                                },
+                                {
+                                    "alts": [
+                                        {
+                                            "type": 1,
+                                            "url": "https://cdn.ampproject.org/c/s/www.cbc.ca/amp/1.4668823"
+                                        }
+                                    ],
+                                    "httpStatus": 200,
+                                    "url": "https://www.cbc.ca/radio/ideas/enlightenment-now-why-steven-pinker-believes-in-progress-1.4668823"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://www.gapminder.org/ignorance/"
+                                },
+                                {
+                                    "alts": [],
+                                    "httpStatus": 200,
+                                    "url": "https://blogs.scientificamerican.com/talking-back/new-clues-to-just-how-much-the-adult-brain-can-change/"
+                                }
+                            ],
+                            "generatedAt": 1546442952684,
+                            "version": "0.3"
+                        },
+                        "metaDescription": "",
+                        "noIndex": false,
+                        "previewImage": {
+                            "backgroundSize": "",
+                            "filter": "",
+                            "height": 0,
+                            "imageId": "1*Y_fzdakbUhLPqW0ZqMh00g.jpeg",
+                            "originalHeight": 664,
+                            "originalWidth": 1000,
+                            "strategy": "resample",
+                            "width": 0
+                        },
+                        "readingList": 0,
+                        "readingTime": 5.932075471698114,
+                        "recommends": 20,
+                        "responsesCreatedCount": 0,
+                        "sectionCount": 6,
+                        "socialRecommendsCount": 0,
+                        "subtitle": "Becoming less wrong about the world with data",
+                        "tags": [
+                            {
+                                "metadata": {
+                                    "coverImage": {
+                                        "id": "1*mC6dTeGWs4uWGSpfJxKsaQ.png",
+                                        "isFeatured": true,
+                                        "originalHeight": 445,
+                                        "originalWidth": 720
+                                    },
+                                    "postCount": 21664
+                                },
+                                "name": "Data",
+                                "postCount": 21664,
+                                "slug": "data",
+                                "type": "Tag"
+                            },
+                            {
+                                "metadata": {
+                                    "coverImage": {
+                                        "id": "1*otQIaMR6_PjD-e2lMW4rIA.jpeg"
+                                    },
+                                    "postCount": 51157
+                                },
+                                "name": "Science",
+                                "postCount": 51157,
+                                "slug": "science",
+                                "type": "Tag"
+                            },
+                            {
+                                "metadata": {
+                                    "coverImage": {
+                                        "id": "1*dVmAyTviHMkGJq46uvrLcg.jpeg"
+                                    },
+                                    "postCount": 209039
+                                },
+                                "name": "Education",
+                                "postCount": 209039,
+                                "slug": "education",
+                                "type": "Tag"
+                            },
+                            {
+                                "metadata": {
+                                    "coverImage": {
+                                        "focusPercentX": 54,
+                                        "focusPercentY": 54,
+                                        "id": "1*EYH3XEkN0UfuX7J24Tybnw.jpeg",
+                                        "isFeatured": true,
+                                        "originalHeight": 1633,
+                                        "originalWidth": 2495
+                                    },
+                                    "postCount": 9137
+                                },
+                                "name": "World",
+                                "postCount": 9137,
+                                "slug": "world",
+                                "type": "Tag"
+                            },
+                            {
+                                "metadata": {
+                                    "coverImage": {
+                                        "id": "1*D_tidaT-fHMY3DRLgjwekw.png",
+                                        "isFeatured": true,
+                                        "originalHeight": 1200,
+                                        "originalWidth": 1800
+                                    },
+                                    "postCount": 5762
+                                },
+                                "name": "Statistics",
+                                "postCount": 5762,
+                                "slug": "statistics",
+                                "type": "Tag"
+                            }
+                        ],
+                        "takeoverId": "",
+                        "topics": [],
+                        "totalClapCount": 215,
+                        "usersBySocialRecommends": [],
+                        "wordCount": 1519
+                    },
+                    "visibility": 0,
+                    "vote": false,
+                    "webCanonicalUrl": ""
+                }
+            },
+            "username": "khotveer1"
+        }
+    ]
+}
