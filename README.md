@@ -5,7 +5,7 @@ This project sets up a data engineering pipeline for harvesting top author data 
 - running inside Docker
 - unit testing Luigi tasks
 
-There is a full write up [here]().
+There is a full write up [here](https://towardsdatascience.com/build-a-pipeline-for-harvesting-medium-top-author-data-c4d7ed73729f).
 
 ## Quickstart
 Start the services with:
